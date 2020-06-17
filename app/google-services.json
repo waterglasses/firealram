@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77621478147",
+    "firebase_url": "https://firealram-28fc0.firebaseio.com",
+    "project_id": "firealram-28fc0",
+    "storage_bucket": "firealram-28fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77621478147:android:cb2f237610153264a5df36",
+        "android_client_info": {
+          "package_name": "com.example.firealramex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77621478147-40hki5jd0vk65bmae7bf826o2pfd5h4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTrF8md5iOqM-gIZnBXOw2Fcx3NRvAgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77621478147-40hki5jd0vk65bmae7bf826o2pfd5h4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
