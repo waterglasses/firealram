@@ -41,8 +41,8 @@ public class fcmAlram extends FirebaseMessagingService {
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
-            String channel = "채널";
-            String channel_nm = "채널명";
+            String channel = "fire_ditecter";
+            String channel_nm = "Fire_deteted";
 
             NotificationManager notichannel = (android.app.NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
             NotificationChannel channelMessage = new NotificationChannel(channel, channel_nm,
